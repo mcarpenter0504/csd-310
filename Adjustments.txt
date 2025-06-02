@@ -1,0 +1,3 @@
+ Modifications to presentation:
+- Added conclusion slide
+- Added explanation to ERD slide
